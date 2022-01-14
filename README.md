@@ -1,4 +1,4 @@
- # 👋 Hi there, it's Nuri your ever ready developer! :v: :smiley:
+ # Hi there, it's Nuri! :v: :smiley:
 
 - 🌱 I’m currently learning **JavaScript, React and Ruby**
 
