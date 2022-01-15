@@ -1,4 +1,4 @@
- # Hi there, it's Nuri! :smiley:
+ # Hi there! :smiley:
 
 - 🌱 I’m currently learning **JavaScript, React and Ruby**
 
