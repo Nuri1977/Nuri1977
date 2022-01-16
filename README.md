@@ -16,7 +16,6 @@
 ### Languages. :man_technologist:
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor) &nbsp;
 ![RAILS](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)  &nbsp;
-![REACT](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)  &nbsp;
 
 
 
