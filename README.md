@@ -1,6 +1,6 @@
  # Hi there! :smiley:
 
-- 🌱 I’m currently learning **JavaScript, React and Ruby**
+- 🌱 I’m bulding with **JavaScript, React and Ruby**
 
 
 ## About Nuri
