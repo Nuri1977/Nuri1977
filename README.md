@@ -5,11 +5,17 @@
 
 ## About Nuri
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Basketball | :black_heart:  Coffee
-- I am currently a full-time student at Microverse and part of the incubator program at Kennedy Technology, learning Full Stack Web Development.
+
+### full-stack developer | Avialiable for Hire 🕹️
+:heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Football | :black_heart:  Coffee
+- I am currently a full time student at Microverse, learning Full Stack Web Development.
 - I love collaborating on Coding  :black_heart:
-- I enjoy feedbacks, becuase it helps me become a better person and a better programmer
-### Quote: “Knowledge is power.” – Francis Bacon
-- 💞️ I’m looking to collaborate on Web Development.
+- I enjoy feedbacks, becuase it helps me become a better person and a better programmer.:orange_heart:
+-  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
+- 💞️ I am looking for internships and job opportunites.
+- [Link to PortFolio :smiley: ](https://nuri-lacka.netlify.app))
+- What I am looking for in a job, is a diverse culture of working colleagues, being able to grow with the company, learning new technology, having a mentor i can work closely with. :blue_heart:
+- For future I am planning to contribute more to open source and learn more about frontend development and web security.
 
 <br>
 
