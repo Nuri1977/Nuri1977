@@ -4,7 +4,7 @@
 
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer.:orange_heart:
--  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
+-  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow.
 - [Link to PortFolio :smiley: ](https://nuri-lacka.netlify.app))
 
 <br>
