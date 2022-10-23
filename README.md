@@ -1,8 +1,5 @@
  # Hi there! :smiley:
 
-- 🌱 I’m bulding with **JavaScript, React and Ruby**
-
-
 ## About Nuri
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Basketball | :black_heart:  Coffee
 
