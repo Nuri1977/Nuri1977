@@ -1,6 +1,5 @@
  # Hi there! :smiley:
-
-## About Nuri
+ 
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Basketball | :black_heart:  Coffee
 
 - I love collaborating on Coding  :black_heart:
