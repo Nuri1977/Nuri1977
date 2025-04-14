@@ -1,63 +1,97 @@
- # Hi there! :smiley:
- 
-:heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Basketball | :black_heart:  Coffee
+# Hi there! 😄
 
-- I love collaborating on Coding  :black_heart:
-- I enjoy feedbacks, becuase it helps me become a better person and a better programmer.:orange_heart:
--  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow.
-- [Link to PortFolio :smiley: ](https://nuri-lacka.netlify.app)
+❤️ Programming | 🖤 Communicating | 💙 Learning New Tech | 🧡 Playing Basketball | ☕ Coffee Lover
 
-<br>
+- I love collaborating on code 🖤  
+- I welcome feedback — it helps me grow as a developer and as a person 🧡  
+- I'm passionate about web development and eager to learn. I pick up new skills quickly and love diving deep into challenges!  
+- [🌐 Visit My Portfolio](https://nuri-lacka.netlify.app)
 
-### Languages. :man_technologist:
+---
+
+## 👨‍💻 Languages
+
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)&nbsp;
-![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=49&color=currentColor)&nbsp;
+![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)&nbsp;
+![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)&nbsp;
 
+---
 
+## ⚒️ Frameworks, Libraries & Tools
 
-### Tools. 🛠 
-![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)  &nbsp;
-![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)  &nbsp;
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)  
-
-
-
-<h3 align="center">GitHub Statistics:</h3>
-<p align="center">
-   <a href="https://github.com/Nuri1977">
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Nuri1977&show_icons=true&locale=en" alt="Nuri" />
-   &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri1977&show_icons=true&theme=midnight-white&layout=compact" alt="Nuri" />
-    <br>
- &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuri1977&theme=radical" alt="Nuri" />
-     </a>
+<p>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" alt="HTML5" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" alt="CSS3" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="JavaScript" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" alt="TypeScript" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" alt="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="50" alt="ShadCN UI" title="ShadCN UI" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor" alt="Express.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="Prisma" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
 </p>
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/Nuri1977">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nuri1977&show_icons=true&locale=en" alt="Nuri's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri1977&show_icons=true&theme=midnight-white&layout=compact" alt="Top Languages" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuri1977&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuri-lacka-7141b01ba/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:nurilacka@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/LackaNuri" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nurilacka/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-D14836?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nuri.lacka/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+**⭐ Check out my repositories and don't forget to give a star!**
+
+👉 From [Nuri](https://github.com/Nuri1977?tab=repositories)
 
 
-
-
-<h3 align="center">Let's Connect 🤝</h3>
-<div align="center">
-<a target="_blank"
-href="https://www.linkedin.com/in/nuri-lacka-7141b01ba/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
-<a target="_blank"
-href="mailto:nurilacka@gmail.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank"
-href="https://twitter.com/LackaNuri"><img
-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank"
-href="https://www.instagram.com/nurilacka/"><img
-src="https://img.shields.io/badge/-Instagram-D14836?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
-<a target="_blank"
-href="https://www.facebook.com/nuri.lacka/"><img
-src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
-</div>
-<br> <br>
-
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [nuri](https://github.com/Nuri1977?tab=repositories)
