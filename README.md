@@ -1,56 +1,97 @@
-# 👋 Hi, I'm Nuri Lacka
+# Hi there! 😄
 
-**Frontend Developer | Open Source Contributor | Macedonia**
+❤️ Programming | 🖤 Communicating | 💙 Learning New Tech | 🧡 Playing Basketball | ☕ Coffee Lover
 
-Welcome to my GitHub! I build modern web apps with **Next.js, React, TailwindCSS**, and contribute to open source tools like **Rosetta DBT Studio**, an intuitive IDE for dbt Core workflows.
-
----
-
-## 📊 GitHub Stats
-
-[![Nuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuri1977&show_icons=true&count_private=true&theme=radical)](https://github.com/Nuri1977)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri1977&layout=compact&theme=radical)](https://github.com/Nuri1977)
+- I love collaborating on code 🖤  
+- I welcome feedback — it helps me grow as a developer and as a person 🧡  
+- I'm passionate about web development and eager to learn. I pick up new skills quickly and love diving deep into challenges!  
+- [🌐 Visit My Portfolio](https://nuri-lacka.netlify.app)
+- [🌐 Visit My Portfolio](https://nurilacka.vercel.app)
 
 ---
 
-## 💻 Featured Projects
+## 👨‍💻 Languages
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Tech‑Ecommerce** | Full‑stack ecommerce app with Stripe & Firestore | [GitHub](https://github.com/Nuri1977/Tech-Ecommerce) |
-| **leetcode‑clone** | Platform inspired by LeetCode for algorithm practice | [GitHub](https://github.com/Nuri1977/leetcode-clone) |
-| **dribble‑clone** | UI clone of Dribbble using React & Next.js | [GitHub](https://github.com/Nuri1977/dribble-clone) |
-| **airbnb‑clone** | Airbnb UI and features with Next.js, TailwindCSS & Prisma | [GitHub](https://github.com/Nuri1977/airbnb-clone) |
-| **Rosetta DBT Studio** | Open source **desktop IDE for dbt Core™**, simplifying project development and Git workflows | [GitHub](https://github.com/rosettadb/dbt-studio) |
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)&nbsp;
+![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)&nbsp;
+![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)&nbsp;
 
 ---
 
-## ⚡ Tech Stack
+## ⚒️ Frameworks, Libraries & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-0C344B?logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<p>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" alt="HTML5" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" alt="CSS3" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="JavaScript" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" alt="TypeScript" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" alt="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="50" alt="ShadCN UI" title="ShadCN UI" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor" alt="Express.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="Prisma" />
+  &nbsp;
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+</p>
 
 ---
 
-## 📅 Contribution Graph
+## 📊 GitHub Statistics
 
-[![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Nuri1977&theme=react-dark&hide_border=true)](https://github.com/Nuri1977)
+<p align="center">
+  <a href="https://github.com/Nuri1977">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nuri1977&show_icons=true&locale=en" alt="Nuri's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri1977&show_icons=true&theme=midnight-white&layout=compact" alt="Top Languages" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuri1977&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuri-lacka)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LackaNuri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nuri1977)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuri-lacka-7141b01ba/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:nurilacka@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/LackaNuri" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nurilacka/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-D14836?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nuri.lacka/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+**⭐ Check out my repositories and don't forget to give a star!**
+
+👉 From [Nuri](https://github.com/Nuri1977?tab=repositories)
+
