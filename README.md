@@ -5,7 +5,6 @@
 - I love collaborating on code 🖤  
 - I welcome feedback — it helps me grow as a developer and as a person 🧡  
 - I'm passionate about web development and eager to learn. I pick up new skills quickly and love diving deep into challenges!  
-- [🌐 Visit My Portfolio](https://nuri-lacka.netlify.app)
 - [🌐 Visit My Portfolio](https://nurilacka.vercel.app)
 
 ---
