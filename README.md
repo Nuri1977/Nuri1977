@@ -58,12 +58,14 @@ Currently focused on modern JavaScript ecosystems, AI-powered developer tools, a
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/Nuri1977">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nuri1977&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri1977&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Nuri1977&show_icons=true&locale=en" alt="Nuri's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri1977&show_icons=true&theme=midnight-white&layout=compact" alt="Top Languages" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuri1977&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
